@@ -1,4 +1,4 @@
- server: 
+server: 
   port: 8202
 spring:
   profiles: test #开发环境
